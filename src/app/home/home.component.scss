@@ -1,0 +1,15 @@
+
+.categories{
+    background-color: #F4F2EE;
+    .gradient-text {
+        background: linear-gradient(to right, #ff7e5f, #feb47b);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+.active-category{
+    background-color: black;
+    color: white;
+    
+}
